@@ -1,2 +1,1 @@
-# java-notes
-My Java Study Notes
+Java notes
